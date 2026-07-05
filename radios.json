@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Only Hits Japan",
+        "tagline": "The Heart of J-Pop Music",
+        "logo": "https://ex-ds-dev.github.io/notifications/radiologos/j3.png",
+        "url": "https://kathy.torontocast.com/powerplay",
+        "logo_file": "online_logo_b2f693e76086283fa5df3da2742516b2.png"
+    },
+    {
+        "name": "JPopsuki Radio",
+        "tagline": "We believe in music",
+        "logo": "https://ex-ds-dev.github.io/notifications/radiologos/jpopsuki.png",
+        "url": "http://jpopsuki.fm:8000/stream",
+        "logo_file": "online_logo_fcc99bb6d7ce4793b1fae63444ae8e3c.png"
+    },
+    {
+        "name": "Japan City Pop",
+        "logo": "https://ex-ds-dev.github.io/notifications/radiologos/Japan-City-Pop.png",
+        "tagline": "Ride the Waves of Retro Tokyo",
+        "url": "https://play.streamafrica.net/japancitypop",
+        "logo_file": "online_logo_473209d5cefa8cf1dfe292b64ff285a5.png"
+    },
+    {
+        "name": "Asia Dream Radio",
+        "tagline": "The Heart of J-Pop Music",
+        "logo": "https://ex-ds-dev.github.io/notifications/radiologos/Asia-Dream-Radio.png",
+        "url": "https://quincy.torontocast.com:2020/",
+        "logo_file": "online_logo_8784e412e5511c17a6ccbfb32b0c6b73.png"
+    },
+    {
+        "name": "J-Rock Powerplay",
+        "tagline": "The best Japanese Rock Experience",
+        "logo": "https://ex-ds-dev.github.io/notifications/radiologos/J-Rock-Powerplay.png",
+        "url": "https://kathy.torontocast.com:3340/",
+        "logo_file": "online_logo_2d34f947efe6e066c82bc56d88b62675.png"
+    },
+    {
+        "name": "Best of Rock FM",
+        "tagline": "Alternative Rock to the MAX",
+        "logo": "https://ex-ds-dev.github.io/notifications/radiologos/bestrockFM.png",
+        "url": "https://bestofrockfm.stream.vip/altrock/mp3-256/",
+        "logo_file": "online_logo_4817003e3b864893d9316d909ff0e101.png"
+    },
+    {
+        "name": "Shanson",
+        "tagline": "Shanson",
+        "logo": "https://ex-ds-dev.github.io/notifications/radiologos/bestrockFM.png",
+        "url": "https://chanson.hostingradio.ru:8041/chanson128.mp3?md5=%7BMD5%7D&e=%7BEXP%7D&_live=1783033317345",
+        "logo_file": "online_logo_4817003e3b864893d9316d909ff0e101.png"
+    },
+    {
+        "name": "Los Santos Style",
+        "tagline": "Today and Back in the Day!",
+        "logo": "https://ex-ds-dev.github.io/notifications/radiologos/santois.png",
+        "url": "https://80s-90s.stream.laut.fm/80s-90s",
+        "logo_file": "online_logo_c06235f197a7070c047b09b0bde3f34f.png"
+    }
+]
