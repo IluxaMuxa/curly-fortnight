@@ -43,9 +43,44 @@
     },
     {
         "name": "Shanson",
-        "tagline": "Shanson",
-        "logo": "https://ex-ds-dev.github.io/notifications/radiologos/bestrockFM.png",
+        "tagline": "103 FM",
+        "logo": "https://radioshanson.ru/images/logo-last.png",
         "url": "https://chanson.hostingradio.ru:8041/chanson128.mp3?md5=%7BMD5%7D&e=%7BEXP%7D&_live=1783033317345",
+        "logo_file": "online_logo_4817003e3b864893d9316d909ff0e101.png"
+    },
+    {
+        "name": "Dorognoe",
+        "tagline": "96 FM",
+        "logo": "https://101.ru/vardata/modules/channel/image/6a41f8c654135.svg",
+        "url": "https://hls-01-dorognoe.emgsound.ru/15/playlist.m3u8?radiostatistica=101.ru",
+        "logo_file": "online_logo_4817003e3b864893d9316d909ff0e101.png"
+    },
+    {
+        "name": "Avto Radio",
+        "tagline": " ",
+        "logo": "https://101.ru/vardata/modules/channel/image/6a41f8c6ae029.svg",
+        "url": "https://hls-01-gpm.hostingradio.ru/avtoradio7/playlist.m3u8?radiostatistica=101.ru",
+        "logo_file": "online_logo_4817003e3b864893d9316d909ff0e101.png"
+    },
+    {
+        "name": "Dacha",
+        "tagline": " ",
+        "logo": "https://101.ru/vardata/modules/channel/image/6a41f8c6ddb43.svg",
+        "url": "https://microit2.n340.ru:8443/VgMv0WV17ZVx1uuo_14_dacha_64?radiostatistica=10",
+        "logo_file": "online_logo_4817003e3b864893d9316d909ff0e101.png"
+    },
+    {
+        "name": "Europa Plus",
+        "tagline": " ",
+        "logo": "https://101.ru/vardata/modules/channel/image/6a41f8c62b9d2.svg",
+        "url": "https://hls-02-europaplus.emgsound.ru/11/playlist.m3u8?radiostatistica=101.ru",
+        "logo_file": "online_logo_4817003e3b864893d9316d909ff0e101.png"
+    },
+    {
+        "name": "Like FM",
+        "tagline": " ",
+        "logo": "https://101.ru/vardata/modules/channel/image/6a41f8c9b06d4.svg",
+        "url": "https://hls-01-gpm.hostingradio.ru/likefm7/playlist.m3u8?format=ts&radiostatistica=101.ru",
         "logo_file": "online_logo_4817003e3b864893d9316d909ff0e101.png"
     },
     {
